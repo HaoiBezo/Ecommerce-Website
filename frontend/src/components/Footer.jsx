@@ -27,8 +27,8 @@ const Footer = () => {
             </div>
         </div>
         <div>
-            <hr />
-            <p className='py-3 text-sm text-center'>Copyright 2025@ forever.com - All Right Reserved.</p>
+            <hr className='border-t-2 border-black'/>
+            <p className='py-2 text-sm text-center'>Copyright 2025@ forever.com - All Right Reserved.</p>
         </div>
     </div>
   )
